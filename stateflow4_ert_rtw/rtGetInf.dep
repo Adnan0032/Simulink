@@ -1,0 +1,10 @@
+rtGetInf.o: D:/matworks/stateflow4_ert_rtw/rtGetInf.c \
+ D:/matworks/stateflow4_ert_rtw/rtGetInf.h \
+ D:/matworks/stateflow4_ert_rtw/rtwtypes.h \
+ D:/matworks/stateflow4_ert_rtw/rt_nonfinite.h
+
+D:/matworks/stateflow4_ert_rtw/rtGetInf.h:
+
+D:/matworks/stateflow4_ert_rtw/rtwtypes.h:
+
+D:/matworks/stateflow4_ert_rtw/rt_nonfinite.h:

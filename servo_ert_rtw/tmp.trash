@@ -1,0 +1,4 @@
+avrdude: ser_open(): can't set com-state for "//./COM5"
+
+avrdude done.  Thank you.
+

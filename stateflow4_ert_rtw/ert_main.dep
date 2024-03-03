@@ -1,0 +1,55 @@
+ert_main.o: D:/matworks/stateflow4_ert_rtw/ert_main.c \
+ D:/matworks/stateflow4_ert_rtw/stateflow4.h \
+ D:/matworks/stateflow4_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/POLYSP~1/R2020a/simulink/include/rtw_continuous.h \
+ D:/matworks/stateflow4_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/POLYSP~1/R2020a/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/POLYSP~1/R2020a/simulink/include/rtw_continuous.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/shared/svd/include/MW_PWM.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/shared/svd/include/MW_SVD.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h \
+ D:/matworks/stateflow4_ert_rtw/stateflow4_types.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/shared/svd/include/MW_SVD.h \
+ D:/matworks/stateflow4_ert_rtw/MW_target_hardware_resources.h \
+ C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Arduino.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/binary.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/variants/standard/pins_arduino.h \
+ D:/matworks/stateflow4_ert_rtw/rtGetInf.h \
+ D:/matworks/stateflow4_ert_rtw/rt_nonfinite.h
+
+D:/matworks/stateflow4_ert_rtw/stateflow4.h:
+
+D:/matworks/stateflow4_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/POLYSP~1/R2020a/simulink/include/rtw_continuous.h:
+
+D:/matworks/stateflow4_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/POLYSP~1/R2020a/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/POLYSP~1/R2020a/simulink/include/rtw_continuous.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/shared/svd/include/MW_PWM.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/shared/svd/include/MW_SVD.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/SUPPOR~1/ARDUIN~2/include/MW_arduino_digitalio.h:
+
+D:/matworks/stateflow4_ert_rtw/stateflow4_types.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/shared/svd/include/MW_SVD.h:
+
+D:/matworks/stateflow4_ert_rtw/MW_target_hardware_resources.h:
+
+C:/PROGRA~3/MATLAB/SUPPOR~1/R2020a/toolbox/target/SUPPOR~1/ARDUIN~1/SCHEDU~1/include/arduinoAVRScheduler.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/Arduino.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/cores/arduino/binary.h:
+
+C:/ProgramData/MATLAB/SupportPackages/R2020a/3P.instrset/arduinoide.instrset/hardware/arduino/avr/variants/standard/pins_arduino.h:
+
+D:/matworks/stateflow4_ert_rtw/rtGetInf.h:
+
+D:/matworks/stateflow4_ert_rtw/rt_nonfinite.h:

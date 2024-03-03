@@ -1,0 +1,10 @@
+rtGetNaN.o: D:/matworks/dcmoteur_ert_rtw/rtGetNaN.c \
+ D:/matworks/dcmoteur_ert_rtw/rtGetNaN.h \
+ D:/matworks/dcmoteur_ert_rtw/rtwtypes.h \
+ D:/matworks/dcmoteur_ert_rtw/rt_nonfinite.h
+
+D:/matworks/dcmoteur_ert_rtw/rtGetNaN.h:
+
+D:/matworks/dcmoteur_ert_rtw/rtwtypes.h:
+
+D:/matworks/dcmoteur_ert_rtw/rt_nonfinite.h:
